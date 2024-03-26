@@ -365,6 +365,8 @@
 "Assets/Suntail Village/Scripts/PlayerController.cs"
 "Assets/Suntail Village/Scripts/PlayerInteractions.cs"
 "Assets/Suntail Village/Scripts/SuntailStartDemo.cs"
+"Assets/_Creepy_Cat/Common Scripts/HouseDoor.cs"
+"Assets/_Creepy_Cat/Common Scripts/MouseLook.cs"
 -langversion:9.0
 
 /deterministic

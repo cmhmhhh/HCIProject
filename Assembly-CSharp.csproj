@@ -53,8 +53,10 @@
     <UnityVersion>2021.3.14f1c1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Creepy_Cat\Common Scripts\HouseDoor.cs" />
     <Compile Include="Assets\Suntail Village\Scripts\LightCulling.cs" />
     <Compile Include="Assets\Suntail Village\Scripts\PlayerInteractions.cs" />
+    <Compile Include="Assets\_Creepy_Cat\Common Scripts\MouseLook.cs" />
     <Compile Include="Assets\Suntail Village\Scripts\PhysicsObject.cs" />
     <Compile Include="Assets\Suntail Village\Scripts\AudioZoneControl.cs" />
     <Compile Include="Assets\Suntail Village\Scripts\Door.cs" />
@@ -66,6 +68,7 @@
     <None Include="Assets\Suntail Village\Shaders\Suntail_Water.shader" />
     <None Include="Assets\Suntail Village\Shaders\Suntail_Surface.shader" />
     <None Include="Assets\Suntail Village\Demo\Readme.txt" />
+    <None Include="Assets\_Creepy_Cat\_3D Medieval House Village Cartoon Kit\README ABOUT DOORS AND OTHERS.txt" />
     <None Include="Assets\Suntail Village\Shaders\Suntail_Foliage.shader" />
   </ItemGroup>
   <ItemGroup>
